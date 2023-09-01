@@ -93,10 +93,19 @@ _Bachelor of Science; Health Services Administration_
 ---
 
 ## <span style="color: darkblue;">SKILLS:</span>
-
-- Microsoft Office Suite
-- Microsoft Project Management
-... [other skills]
+<p>
+    <img src="https://img.shields.io/badge/-Microsoft%20Office%20Suite-FF7F50?logo=microsoft-office&style=flat" />
+    <img src="https://img.shields.io/badge/-Tableau-FFD700?logo=tableau&style=flat" />
+    <img src="https://img.shields.io/badge/-Python-9370DB?logo=python&style=flat" />
+    <img src="https://img.shields.io/badge/-Salesforce-3CB371?logo=salesforce&style=flat" />
+    <img src="https://img.shields.io/badge/-Jira-20B2AA?logo=jira&style=flat" />
+    <img src="https://img.shields.io/badge/-Confluence-1E90FF?logo=confluence&style=flat" />
+    <img src="https://img.shields.io/badge/-R%20Studio-F5DEB3?logo=r&style=flat" />
+    <img src="https://img.shields.io/badge/-Amazon%20AWS-D2691E?logo=amazon-aws&style=flat" />
+    <img src="https://img.shields.io/badge/-Box-C0C0C0?logo=box&style=flat" />
+    <img src="https://img.shields.io/badge/-Power%20BI-FFE4E1?logo=power-bi&style=flat" />
+    <img src="https://img.shields.io/badge/-VS%20Code-F4A460?logo=visual-studio-code&style=flat" />
+</p>
 
 ---
 
