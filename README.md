@@ -116,5 +116,8 @@ _Bachelor of Science; Health Services Administration_
 
 ## <span style="color: darkblue;">SPECIAL KNOWLEDGE:</span>
 
-**Certified SAFe 4 Agilist**
-... [other special knowledge]
+- **Certified SAFe 4 Agilist**  
+- **CMMI Alternative Payment Models**  
+- **Maryland Pay for Performance and Quality Improvement Programs**  
+  - Maryland Hospital Acquired Conditions Program (MHAC)
+  - Quality-Based Reimbursement Program (QBR)
