@@ -82,7 +82,13 @@ _October 2012 – May 2013_
 _M.P.S. in Data Science candidate_ | Diploma expected 2023 (GPA:4.0)  
 2021-Present
 
-... [other education entries]
+**George Mason University; Fairfax, VA**  
+_Masters Certificate; Data Analytics_
+2019-2020
+
+**James Madison University; Harrisonburg, VA**
+_Bachelor of Science; Health Services Administration_
+2009-2013
 
 ---
 
