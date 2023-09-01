@@ -14,7 +14,7 @@ Baltimore, MD 21211
 <span style="color: darkblue;">**Cell:**</span> 301-221-9093  
 
 <span style="color: darkblue;">**Social:**  
-</span><a href="https://www.linkedin.com/in/michael-whittington-6a099137/"><img align="left" src="https://img.shields.io/badge/-LinkedIn-C0C0C0?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
+</span><a href="https://www.linkedin.com/in/michael-whittington-6a099137/"><img align="left" src="https://img.shields.io/badge/-LinkedIn-1E90FF?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
 
   
 ---
