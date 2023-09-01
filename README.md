@@ -11,11 +11,12 @@ UMBC Capstone Repository - Fall 2023
 Baltimore, MD 21211
 
 <span style="color: darkblue;">**Email:**</span> whittima@gmail.com  
-<span style="color: darkblue;">**Cell:**</span> 301-221-9093
+<span style="color: darkblue;">**Cell:**</span> 301-221-9093  
 
-<a href="https://www.linkedin.com/in/michael-whittington-6a099137/"><img align="left" src="https://img.shields.io/badge/-LinkedIn-C0C0C0?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>
+<span style="color: darkblue;">**Social:**  
+</span><a href="https://www.linkedin.com/in/michael-whittington-6a099137/"><img align="left" src="https://img.shields.io/badge/-LinkedIn-C0C0C0?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
 
-
+  
 ---
 
 _Detail oriented people-person with strong data analytics skills and an interest in health care delivery policies, particularly as they relate to at-risk and vulnerable populations._
@@ -86,12 +87,13 @@ _M.P.S. in Data Science candidate_ | Diploma expected 2023 (GPA:4.0)
 2021-Present
 
 **George Mason University; Fairfax, VA**  
-_Masters Certificate; Data Analytics_
+_Masters Certificate; Data Analytic_  
 2019-2020
 
-**James Madison University; Harrisonburg, VA**
-_Bachelor of Science; Health Services Administration_
+**James Madison University; Harrisonburg, VA**  
+_Bachelor of Science; Health Services Administration_  
 2009-2013
+
 
 ---
 
