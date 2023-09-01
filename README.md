@@ -50,6 +50,29 @@ _August 2014 – August 2016_
 - Generated tools to measure real-time hospital quality performance including patient-level reports, physician dashboards, coding audit sheets, service line drilldowns, and other ad hoc analyses.
 - Interfaced with clients to educate and inform on coding optimization and clinical best practices.
 
+### **Berkeley Research Group; Washington, D.C.**
+#### Clinical Redesign Associate
+_August 2013 – August 2014_  
+- Implemented program to reduce hospital length of stay by more than a day within only a month of engagement.
+    - Assisted in implementation of Multidisciplinary Rounds
+    - Contributed to the implementation of a Care Management web-based documentation application
+    - Reorganized Case Management and Social Work departments
+    - Created process flows for the Bed Management and Surgical Services departments
+- Utilized data visualization software to depict hospital utilization patterns and perform real-time monitoring of surgical volumes and nurse staffing levels.
+- Conducted on-site interactions with physicians, nurses, and case managers to foster collaborative relationships.
+
+### **Frederick Memorial Hospital; Frederick, Maryland**
+#### Performance Improvement Intern
+_May 2013 – July 2013_  
+- Helped develop a Lean management system dealing with nursing restraints.
+- Coordinated efforts to help the hospital receive accreditation from the Leapfrog Group.
+- Monitored patient fall rates to inform a best practices committee on potential strategies to reduce fall risks.
+
+
+### **Rockingham Memorial Hospital; Harrisonburg, Virginia**
+#### Junior Clinical Analyst
+_October 2012 – May 2013_  
+- Provided technical support for clinicians during the implementation of Meditech.
 
 ---
 
