@@ -1,10 +1,8 @@
 # UMBC-DATA606-FALL2023-TUESDAY
 UMBC Capstone Repository - Fall 2023
 # Michael Whittington
+<img src="https://github.com/Michael-Whittington/UMBC-DATA606-FALL2023-TUESDAY/assets/107943021/5afd10ef-7e76-462b-ba73-36578a2374c3" align="right" width="140" height="190">
 
-<div align="center">
-    <img src="URL_TO_PHOTO" alt="Michael Whittington Photo" width="200"/>
-</div>
 
 <span style="color: darkblue;">**Address:**</span>  
 1322 Morling Avenue  
@@ -15,6 +13,8 @@ Baltimore, MD 21211
 
 <span style="color: darkblue;">**Social:**  
 </span><a href="https://www.linkedin.com/in/michael-whittington-6a099137/"><img align="left" src="https://img.shields.io/badge/-LinkedIn-1E90FF?logo=linkedin&style=flat" alt="icon | LinkedIn"/></a>  
+
+
 
   
 ---
